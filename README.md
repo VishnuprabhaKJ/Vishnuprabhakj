@@ -1,3 +1,5 @@
+## Vishnuprabha K J (Civil) - 21B115
+
 # Invoice Management System
 
 ## Table Design
@@ -40,7 +42,6 @@
 **Description:** This is the entry point of the application. It provides a menu for users to:
 - Add a new customer
 - Display an invoice for a customer
-- Display the total quantity sold for a customer
 - Display the total quantity sold for a product
 - Display the count of paid and unpaid invoices for a customer
 - Exit the application
